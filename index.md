@@ -18,7 +18,7 @@ We’ll have dozens of sessions on a great variety of topics. Don’t forget to 
 
 ## Listen
 
-Attend great presentations from all parts of the Perl community, including luminaries like Damian Conway. Other keynote speakers yet to be announced. **Presentations and talks will be Wednesday through Friday**.
+Attend great presentations from all parts of the Perl community, including luminaries like **Damian Conway**. Other keynote speakers yet to be announced. **Presentations and talks will be Wednesday through Friday**.
 
 ## Connect
 
