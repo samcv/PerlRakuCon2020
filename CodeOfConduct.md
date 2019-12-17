@@ -7,7 +7,7 @@ permalink: /code-of-conduct/
 The organizers of **Perl and Raku Conference 2020** are dedicated to providing a harassment-free conference experience for everyone regardless of age, gender, gender identity, sexual orientation, disability, physical appearance, race, or religion (or lack thereof).
 
 All participants (including attendees, speakers, sponsors and volunteers) at the conference are required to agree to the following code of conduct.
-The code of conduct applies to all conference activities including talks, panels, workshops, and social events. It extends to conference-specific exchanges on social media, for instance posts tagged with the identifier of the conference (e.g. [#conference] on Twitter), replies to such posts, and replies to the official social media account (e.g. [@conference] on Twitter).
+The code of conduct applies to all conference activities including talks, panels, workshops, and social events. It extends to conference-specific exchanges on social media, for instance posts tagged with the identifier of the conference (e.g. #perlrakucon, #perlcon, #rakucon etc. on Twitter), replies to such posts, and replies to the official social media account (official account will be added once it live) on Twitter).
 
 Organizers will enforce this code throughout and expect cooperation in ensuring a safe environment for all.
 
@@ -56,7 +56,7 @@ Refunds may not be given in case of expulsion.
 
 ## What To Do If You Witness or Are Subject To Unacceptable Behavior
 
-\[Details of the local implementation of the code of conduct should be given here, including specific details of how participants should report a violation and how reports will be handled.\]
+The specific details of how participants should report a violation and how reports will be handled has not been finalized.
 
 ## Acknowledgements
 
