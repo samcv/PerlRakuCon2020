@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# The Perl and Raku Conference in Europe 2020
-
 ## When
 
 **10-14 August.**
