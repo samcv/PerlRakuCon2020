@@ -22,7 +22,7 @@ Attend great presentations from all parts of the Perl community, including lumin
 
 ## Connect
 
-Meet your fellow Perl programmers. **We expect nearly 300 Perlers to attend from around Europe and the world!** This is a great opportunity to connect with the community.
+Meet your fellow Perl programmers. **We expect nearly 300 Perlers and Rakuers to attend from around Europe and the world!** This is a great opportunity to connect with the community.
 
 ## Save
 
