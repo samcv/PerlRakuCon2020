@@ -1,4 +1,8 @@
-# Code of Conduct
+---
+layout: page
+title: Code of Conduct
+permalink: /code-of-conduct/
+---
 
 The organizers of **Perl and Raku Conference 2020** are dedicated to providing a harassment-free conference experience for everyone regardless of age, gender, gender identity, sexual orientation, disability, physical appearance, race, or religion (or lack thereof).
 
