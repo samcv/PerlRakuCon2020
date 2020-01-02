@@ -29,12 +29,15 @@ All conference participants agree to:
 participants.
 * Refrain from demeaning, discriminatory, or harassing behavior and language.
 Please refer to Unacceptable Behavior for more details.
-* Alert a member of the code of conduct response team [reference to further
+
+## What To Do If You Witness or Are Subject To Unacceptable Behavior
+
+Alert a member of the code of conduct response team [reference to further
 details] if you notice someone in distress, or observe violations of this code
-of conduct, even if they seem inconsequential. Please refer to the section
-titled
-[What To Do If You Witness or Are Subject To Unacceptable Behavior](what-to-do-if-you-witness-or-are-subject-to-unacceptable-behavior)
-for more details.
+of conduct, even if they seem inconsequential.
+
+Note: The specific details of how participants should report a violation and how
+reports will be handled has not been finalized.
 
 ## Unacceptable Behavior
 
@@ -45,7 +48,7 @@ Behavior that is unacceptable includes, but is not limited to:
 * Unwanted photography or recording
 * Sustained or willful disruption of talks or other events
 * Use of sexual or discriminatory imagery or comments
-* Offensive comments related to age, gender, gender identity, sexual
+* Inappropriate comments related to age, gender, gender identity, sexual
 orientation, disability, race or religion
 * Inappropriate physical contact, which can include grabbing, or massaging or
 hugging without consent.
@@ -60,38 +63,29 @@ Attendees who behave in a manner deemed inappropriate are subject to actions
 listed under
 [Procedure for Code of Conduct Violations](#procedure-for-code-of-conduct-violations).
 
-## Additional Requirements for Conference Contributions
+## Additional Requirements for Conference Contributions and Sponsors (discuss with others if this is needed given the above text)
 
-Presentation slides and posters should not contain offensive or sexualized
-material. If this material is impossible to avoid given the topic (for example
-text mining of material from hate sites) the existence of this material should
-be noted in the abstract and, in the case of oral contributions, at the start of
-the talk or session.
+Presentation slides and posters should not contain offensive or sexualized material.
+If this material is impossible to avoid given the topic (for example text mining
+of material from hate sites)
+the existence of this material should be noted in the abstract and, in the case
+of oral contributions, at the start of the talk or session.
 
-## Additional Requirements for Sponsors
-
-Sponsors should not use sexualized images, activities, or other material. Booth
-staff (including volunteers) should not use sexualized
-clothing/uniforms/costumes, or otherwise create a sexualized environment. In
-case of violations, sanctions may be applied without return of sponsorship
-contribution.
+For sponsors, in case of violations, sanctions may be applied without return of
+sponsorship contribution.
 
 ## Procedure for Code of Conduct Violations
 
 The organizing committee reserves the right to determine the appropriate response
 for all code of conduct violations. Potential responses include:
 
+* Mediation
 * A formal warning to stop harassing behavior
 * Expulsion from the conference
 * Removal of sponsor displays or conference posters
 * Cancellation or early termination of talks or other contributions to the program
 
-Refunds may not be given in case of expulsion.
-
-## What To Do If You Witness or Are Subject To Unacceptable Behavior
-
-The specific details of how participants should report a violation and how
-reports will be handled has not been finalized.
+Refunds to attendees or sponsors may not be given in case of expulsion.
 
 ## Acknowledgements
 
