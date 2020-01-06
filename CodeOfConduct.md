@@ -63,7 +63,7 @@ Attendees who behave in a manner deemed inappropriate are subject to actions
 listed under
 [Procedure for Code of Conduct Violations](#procedure-for-code-of-conduct-violations).
 
-## Additional Requirements for Conference Contributions and Sponsors (discuss with others if this is needed given the above text)
+## Additional Requirements for Conference Contributions and Sponsors
 
 Presentation slides and posters should not contain offensive or sexualized material.
 If this material is impossible to avoid given the topic (for example text mining
