@@ -14,6 +14,8 @@ Other important parts of the conference include the Attendees Dinner, usually he
 
 ## Details
 
+To contact the organizers please email info@perlrakucon.eu. Please be patient for us to respond to you.
+
 ### Room name or Dinner
 
 This means you have one of the rooms named after you. Alternately you can sponsor the dinner
