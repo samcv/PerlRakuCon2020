@@ -94,4 +94,4 @@ This code of conduct is based on [R lang](https://www.r-project.org/coc.html)’
 This code of conduct was based on that developed for [useR! 2018](https://user2018.r-project.org/code_of_conduct/)
 which was a revision of the code of conduct used at previous useR!s and also drew from [rOpenSci’s code of conduct](https://ropensci.org/coc/).
 
-Note: this is the second version of the CoC, published on 2020.01.06. For the previous version (v1) [See here](code-of-conduct-v2).
+Note: this is the second version of the CoC, published on 2020.01.06. For the previous version (v1) [See here](code-of-conduct-v1).
