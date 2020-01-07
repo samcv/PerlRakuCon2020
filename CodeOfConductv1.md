@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Code of Conduct v1
 permalink: /code-of-conduct-v1/
 ---
 Note: this has been superceded on 2020.01.06. [See here for the latest version](code-of-conduct).
