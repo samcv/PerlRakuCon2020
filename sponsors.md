@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Perl/Raku Con Sponsors
+title: Sponsors
 permalink: /sponsors/
 ---
 
