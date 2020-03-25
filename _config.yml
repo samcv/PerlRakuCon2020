@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Perl & Raku Con in Amsterdam 2020
+title: Perl & Raku Con in Amsterdam 2020 - Cancelled
 email: info@perlrakucon.eu
 description: >- # this means to ignore newlines until "baseurl:"
   Perl and Raku programming language conference in Europe. In 2020 it will be 
