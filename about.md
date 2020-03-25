@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
+# CANCELLED
+
+Due to COVID-19, the organizers of the conference have agreed to cancel the event. For both safety as well as with the expectation that a new rule closing organized events over 3 people until June in the Netherlands has made the conferene this year untenable. The conference will continue in 2021 (likely to be in August just as this year was scheduled for). We are looking into the possibility of a remote conference sometime this summer in collaboration with the American conference.
+
+# About
+
 Every year there is a Perl Conference in Europe. It has gone by many names, originally being called YAPC (Yet Another Perl Conference), a tongue in cheek naming which was more recently changed to
 more clearly represent that this conference is the largest and premier Perl conference in Europe.
 

@@ -4,6 +4,10 @@ title: Sponsors
 permalink: /sponsors/
 ---
 
+# CANCELLED
+
+Due to COVID-19, the organizers of the conference have agreed to cancel the event. For both safety as well as with the expectation that a new rule closing organized events over 3 people until June in the Netherlands has made the conferene this year untenable. The conference will continue in 2021 (likely to be in August just as this year was scheduled for). We are looking into the possibility of a remote conference sometime this summer in collaboration with the American conference.
+
 ## What is PerlCon EU?
 
 PerlCon, formerly known as YAPC Europe, is the yearly gathering of Perl programmers (both Perl5 and Raku [formerly known as Perl6]).  It draws people from all over Europe, but also many American and even Asian Perl developers.
